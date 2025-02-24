@@ -6,5 +6,3 @@ Train_model.py is the script used to traing the CNN classifier model.
 
 ### The model was trained on a dataset with 11000 eye images, classified under labels such as open right eye, left eye and closed right eye, left eye.
 
-# Vedio Link
-https://drive.google.com/file/d/15_1B-n15fWxpHFIXsDOWWjkjlbLdQzTF/view?usp=sharing
